@@ -10,4 +10,3 @@ import { RouterOutlet } from '@angular/router';
 export class App {
   protected readonly title = signal('cicd-angular');
 }
-const pruebaError: number = "Esto es un error";
