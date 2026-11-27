@@ -9,5 +9,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class App {
   protected readonly title = signal('cicd-angular');
+  fallo: number = no hay ningun cambio;
 }
   
